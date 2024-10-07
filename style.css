@@ -5,7 +5,7 @@ h1{
 }
 
 .pedido{
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(206, 0, 0);
     width: 300px;
     margin-left: 80%;
     border-radius: 10px;
@@ -29,12 +29,12 @@ img{
 
 a:link{
   text-decoration: none;
-  color: #3f1010;
+  color: #000000;
 }
 
 a:visited{
   text-decoration: none;
-  color: #a19696;
+  color: #ffae00fd;
 }
 
 a:hover{
@@ -48,7 +48,7 @@ a:active{
 }
 
 .button {
-    background-color: #a19696; /* Green */
+    background-color: #d3d3d3; /* Green */
     border: none;
     color: rgb(255, 255, 255);
     padding: 13px 30px;
@@ -62,8 +62,8 @@ a:active{
   }
 
   .button5 {
-    background-color: rgb(19, 15, 15);
-    color: rgb(126, 126, 126);
+    background-color: rgb(110, 110, 110);
+    color: rgb(80, 64, 64);
     border: 4px solid #ff010100;
     border-radius: 9px;
     width: 200px;
@@ -71,8 +71,9 @@ a:active{
 
 .categorias{
     text-align: center;
-    background-color: rgb(75, 75, 75);
-    margin-top: 7%
+   
+    font-family:Arial; background-image:url('imagens/pedra.jpg'); background-color:#615757; 	background-attachment: fixed;
+    margin-top: 2%
 }
 
 
@@ -157,7 +158,7 @@ a:active{
   @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 
 body
-{font-family:Arial; background-image:url('https://www.pizzariabetel.com.br/bg.png'); background-color:#bebebe; 	background-attachment: fixed;
+{font-family:Arial; background-image:url('imagens/madeira2.jpg'); background-color:#615757; 	background-attachment: fixed;
 }
 
 p {font-family:Yanone Kaffeesatz; font-size:35px; text-align:center; color:#e6be0e; font-style: oblique;}
